@@ -1,2 +1,2 @@
-# geolocation94
-Tis project is developed in java to make the first part of the geolocation of objectifs lost inthe Airports
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
